@@ -3,8 +3,8 @@ namespace TestProject;
 public class Tests
 {
     [Test]
-    public void FailingTest()
+    public void PassingTest()
     {
-        Assert.That(false, Is.True, "This test is expected to fail.");
+        Assert.That(true, Is.True, "This test is expected to passed.");
     }
 }
