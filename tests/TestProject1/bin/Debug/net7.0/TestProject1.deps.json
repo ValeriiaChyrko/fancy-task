@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "TestProject/1.0.0": {
+      "TestProject1/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "17.7.1",
           "NUnit": "3.13.3",
@@ -15,7 +15,7 @@
           "coverlet.collector": "3.2.0"
         },
         "runtime": {
-          "TestProject.dll": {}
+          "TestProject1.dll": {}
         }
       },
       "coverlet.collector/3.2.0": {},
@@ -319,7 +319,7 @@
     }
   },
   "libraries": {
-    "TestProject/1.0.0": {
+    "TestProject1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

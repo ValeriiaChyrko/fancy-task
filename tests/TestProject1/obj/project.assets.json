@@ -986,11 +986,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\TestProject1\\TestProject1.csproj",
+      "projectName": "TestProject1",
+      "projectPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\Valeriia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Valeriia\\AppData\\Roaming\\NuGet\\NuGet.Config"
