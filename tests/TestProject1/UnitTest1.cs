@@ -1,5 +1,6 @@
 namespace TestProject1;
 
+[TestFixture]
 public class Tests
 {
     [SetUp]
@@ -8,14 +9,14 @@ public class Tests
     }
 
     [Test]
-    public void FailingTest()
+    public void Test1()
     {
-        Assert.That(false, Is.True, "This test is expected to failing.");
+        Assert.Pass();
     }
     
     [Test]
-    public void PassingTest()
+    public void Test2()
     {
-        Assert.That(true, Is.True, "This test is expected to passed.");
+        Assert.Fail();
     }
 }
