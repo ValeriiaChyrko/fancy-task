@@ -9,13 +9,13 @@ public class Tests
     }
 
     [Test]
-    public void Test1()
+    public void TestProject1Pass()
     {
         Assert.Pass();
     }
     
     [Test]
-    public void Test2()
+    public void TestProject1Failed()
     {
         Assert.Fail();
     }
