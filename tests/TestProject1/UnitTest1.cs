@@ -8,14 +8,14 @@ public class Tests
     }
 
     [Test]
-    public void PassingTest()
+    public void FailingTest()
     {
-        Assert.That(true, Is.True, "This test is expected to passed.");
+        Assert.That(false, Is.True, "This test is expected to failing.");
     }
     
     [Test]
-    public void FailingTest()
+    public void PassingTest()
     {
-        Assert.That(false, Is.True, "This test is expected to passed.");
+        Assert.That(true, Is.True, "This test is expected to passed.");
     }
 }
