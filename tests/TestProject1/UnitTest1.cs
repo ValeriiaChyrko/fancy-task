@@ -12,4 +12,10 @@ public class Tests
     {
         Assert.That(true, Is.True, "This test is expected to passed.");
     }
+    
+    [Test]
+    public void FailingTest()
+    {
+        Assert.That(false, Is.True, "This test is expected to passed.");
+    }
 }
