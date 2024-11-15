@@ -1,8 +1,7 @@
 ﻿namespace ExampleWithWarnings
 {
     public static class Program
-    {
-        static void Main(string[] args)
+    { static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
 
@@ -11,7 +10,7 @@
 
             // Попередження: неявне приведення типів
             double number = 10.5;
-            int result = AddNumbers(5, (int)number); // Явне приведення типу
+            int result = AddNumbers(5.2, (int)number); // Явне приведення типу
 
             Console.WriteLine("Result: " + result);
         }
