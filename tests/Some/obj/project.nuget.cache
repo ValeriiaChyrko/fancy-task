@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m+alsIwOQOjV4nTYkIHTbDzsuBArz7q3rsMZ9ZfEueFv3GeyB7UPFk7F42JfRm+dQkCNqYd62w5j/D3tF41qYA==",
+  "dgSpecHash": "9kgJC6xgMJxZb9ZxkFpYEBVFL7fnkvNAAAmWJGRWe2qUV3rQ6OuE5xPsOhAkHETS7uWVIDg57aP9BsfsS+X7HA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\Some\\Some.csproj",
+  "projectFilePath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\tests\\Some\\Some.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Valeriia\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Valeriia\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",

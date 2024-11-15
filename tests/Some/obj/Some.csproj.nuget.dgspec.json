@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\Some\\Some.csproj": {}
+    "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\tests\\Some\\Some.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\Some\\Some.csproj": {
+    "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\tests\\Some\\Some.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\Some\\Some.csproj",
+        "projectUniqueName": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\tests\\Some\\Some.csproj",
         "projectName": "Some",
-        "projectPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\Some\\Some.csproj",
+        "projectPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\tests\\Some\\Some.csproj",
         "packagesPath": "C:\\Users\\Valeriia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\Some\\obj\\",
+        "outputPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\tests\\Some\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Valeriia\\AppData\\Roaming\\NuGet\\NuGet.Config"

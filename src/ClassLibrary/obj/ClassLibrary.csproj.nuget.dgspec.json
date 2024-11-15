@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\ClassLibrary\\ClassLibrary.csproj": {}
+    "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\src\\ClassLibrary\\ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\src\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\src\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\src\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Valeriia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\src\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Valeriia\\AppData\\Roaming\\NuGet\\NuGet.Config"

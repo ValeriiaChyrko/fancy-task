@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RVPx8hmnpiv1nL5RngnNS540K3VXW4ZqsAJMuXW2ZXFmWPnZjzaIvseU8yfL29sOL2G366W5Tjlh/tK5EEd6YQ==",
+  "dgSpecHash": "lO/AwtFuK68lwtaNoi3oJkryFDalE3Nvp+c7Aiesp9tdgxkWxZv0hldqBx2UlP8mLIgV7pNpjPWbjsBo576L1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\ClassLibrary\\ClassLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Valeriia\\RiderProjects\\patterns\\fancy-task\\src\\ClassLibrary\\ClassLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
