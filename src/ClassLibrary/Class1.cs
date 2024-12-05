@@ -5,9 +5,6 @@
         {
             Console.WriteLine("Hello, World!");
 
-            // Попередження: невикористовувана змінна
-            int unusedVariable = 42;
-
             // Попередження: неявне приведення типів
             double number = 10.5;
             int result = AddNumbers(5, (int)number); // Явне приведення типу
