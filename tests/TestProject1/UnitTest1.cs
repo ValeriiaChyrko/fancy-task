@@ -13,10 +13,4 @@ public class Tests
     {
         Assert.Pass();
     }
-    
-    [Test]
-    public void TestProject1Failed()
-    {
-        Assert.Fail();
-    }
 }
